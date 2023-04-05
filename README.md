@@ -24,3 +24,11 @@ Library Management System: " archive of longings"
 * The Page and Language of the book in the Library is entered and stored into the database library.db
 
 ![DatabaseLMS 01](https://github.com/Okinbird/LibraryMS_mvp/blob/master/images/DatabaseLMS%2001.png)
+
+##    About Section
+
+* Want to construc a basic user interface application and Tkinter is a Python library that can be used. During ALX program we've make use of Tkinter and decide to see how it can be integrated.
+
+#    Authors
+Olayinka Eyebiokin - [Github](https://github.com/Okinbird) / [Twitter](https://twitter.com/OkinBird)
+
